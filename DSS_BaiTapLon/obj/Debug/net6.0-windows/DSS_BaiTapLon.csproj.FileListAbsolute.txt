@@ -20,3 +20,11 @@ C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\obj\Debug\net6.0-windows\DSS_BaiTapLon.F
 C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\obj\Debug\net6.0-windows\DSS_BaiTapLon.Properties.Resources.resources
 C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\obj\Debug\net6.0-windows\DSS_BaiTapLon.Properties.UserControlTimKiem.resources
 C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\obj\Debug\net6.0-windows\DSS_BaiTapLon.Properties.UserControlTuVan.resources
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\obj\Debug\net6.0-windows\DSS_BaiTapLon.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\DSS\DSS_BaiTapLon\obj\Debug\net6.0-windows\DSS_BaiT.8022F502.Up2Date
